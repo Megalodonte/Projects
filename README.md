@@ -1,2 +1,9 @@
 # Projects
-Some of the project i worked on in the past, or aren't finished yet.
+In this repository you will find some of the project i worked on in the past, collaborating with other students or on my own.
+
+Each folder represents a project and usually contains a Jupyter Notebook (or one or more Python files) which encapsulates the whole work; additionally, a presentation of the work can be present and I highly suggest to read it for a better understanding.
+
+Hopefully all notebooks should run without errors, with the exception of some cases in which the dataset used has not been uploaded onto this repository for storage/privacy causes, in any case, the outputs of the notebooks are visible.
+
+If you experience some problems running the codes or have some curiosities on the works, feel free to ask me any question, I'll try to answer them when I can.
+
