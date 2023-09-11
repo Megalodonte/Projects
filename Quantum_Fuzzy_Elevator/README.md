@@ -1,7 +1,7 @@
 Summary:
 
   - Aim of the project: Demonstration of Quantum Fuzzy Control
-  - Field: Fuzzy Control Systems/Quantum Computing
+  - Field: Fuzzy Control Systems / Quantum Computing
   - Dataset: Handmade
   - Model used: Mamdani Inference Engine (both classic and fuzzy)
 
