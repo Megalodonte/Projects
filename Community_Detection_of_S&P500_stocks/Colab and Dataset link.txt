@@ -1,0 +1,5 @@
+Colab Notebook
+https://colab.research.google.com/drive/1LzJOwmO4i6cMhgSfHC-4LmTYqH2RW_kJ?usp=sharing
+
+Dataset
+https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_stocks.csv
